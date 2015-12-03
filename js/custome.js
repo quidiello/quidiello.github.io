@@ -9,7 +9,7 @@
         backSpeed: 10,
         backDelay: 1000,
         loop: true
-      })
+      });
     });
   });
 })(jQuery);
